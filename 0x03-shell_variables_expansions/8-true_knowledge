@@ -1,2 +1,2 @@
-#!/bib/bash
-$(($TRUEKNOWLEDGE+128))
+#!/bin/bash
+echo $(($TRUEKNOWLEDGE+128))
